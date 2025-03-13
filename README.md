@@ -15,6 +15,9 @@ A simple calculator app built with React Native.
 
 1. Make sure you have React Native set up
 2. Clone the repository
+   ```
+    git clone https://github.com/dushaaaa/calculatorApp.git
+   ```
 3. Install dependencies:
    ```
    npm install
